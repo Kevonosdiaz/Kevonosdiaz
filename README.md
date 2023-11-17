@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer and an CS student at the 
 
 I'm particularly interested in full stack or backend web development.
 
-## 🌐 Find Me On:
+## 🌐 Find Me On
 
 [![email](https://img.shields.io/badge/kevonosdiaz@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kevonosdiaz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/kevin--tran--t56-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-tran-t56)
