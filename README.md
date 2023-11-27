@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Kevin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Welcome to my GitHub profile! I'm a software developer and an CS student at the University of Calgary.
+Welcome to my GitHub profile! I'm a software developer and a CS student at the University of Calgary.
 
-I'm particularly interested in full stack or backend web development.
+I've been passionate about technology for a long time and got into software development and computer science a few years ago. Beginning to learn about web development and Linux distros has only continued to spark my curiosity and drive my learning. With an interest in PCs, distros, and keyboards, I love tinkering with my setup to make development and coding even more efficient and interesting!
+
+I'm particularly interested in backend web development, but also software development using Go or C++.
 
 ## 🌐 Find Me On
 
