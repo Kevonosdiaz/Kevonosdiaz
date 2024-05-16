@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a software developer and a CS student at the U
 
 I've been passionate about technology for a long time and got into software development and computer science a few years ago. Beginning to learn about web development and Linux distros has only continued to spark my curiosity and drive my learning. With an interest in PCs, distros, and keyboards, I love tinkering with my setup to make development and coding even more efficient and interesting!
 
-I'm particularly interested in backend web development, but also software development using Go or C++.
-
 ## 🌐 Find Me On
 
 [![email](https://img.shields.io/badge/kevonosdiaz@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kevonosdiaz@gmail.com)
